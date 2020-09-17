@@ -1,5 +1,3 @@
-# bootstrap-4.0-multilevel-dropdown-hover
-bootstrap 4.0 Beta multilevel dropdown on hover with animation
 
 Bootstrap 4.0 Beta Multilevel Dropdown On Hover
 ==========================
